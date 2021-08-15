@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joseph
 - 👀 I’m interested in Web development,machine learning,block chain.
-- 🌱 I’m currently learning nodejs
+- 🌱 I’m currently learning back end 
 - 💞️  I’m looking to collaborate on projects related to javascript
 - 📫 You can reach me on 
 
