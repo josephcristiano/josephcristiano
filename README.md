@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joseph
-- 👀 I’m interested in Machine learning.
+- 👀 I’m interested in Machine learning,Competitive Programming
 - 🌱 I’m currently learning machine learning,deep learning
 <!-- - 💞️  I’m looking  -->
 - 📫 You can reach me on 
